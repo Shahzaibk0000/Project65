@@ -1,0 +1,7 @@
+
+Name of University: University of Central Punjab
+
+The Number Of Teachers are: 5
+Teacher IDs: 1 2 3 4 5 
+The Names of the Teachers are: Teacher1 Teacher2 Teacher3 Teacher4 Teacher5 
+The Salaries of the Teachers are: 50000 60000 55000 58000 52000 
